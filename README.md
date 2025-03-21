@@ -1,7 +1,7 @@
 # Olá, me chamo Pedro Paulo!
 
 ## Desenvolvedor Web Full Stack
-Técnico em Desenvolvimento de Sistemas e Desenvolvedor FullStack, tenho experiência em desenvolvimento de sistemas web e estou em constante aprendizado para me expecializar mais e mais.
+Técnico em Desenvolvimento de Sistemas e Desenvolvedor FullStack, tenho experiência em desenvolvimento de sistemas web e estou em constante aprendizado para me especializar mais e mais na área da tecnologia.
 
 ## 🧑‍💻 Minhas Habilidades
 
