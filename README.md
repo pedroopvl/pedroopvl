@@ -17,8 +17,8 @@ T√©cnico em Desenvolvimento de Sistemas e Desenvolvedor FullStack, tenho experi√
     <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Messo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Messo-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
-    <img align="center" alt="Messo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
     <img align="center" alt="Messo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="Messo-MySQL" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg">
   
 </div>
 
