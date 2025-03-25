@@ -3,13 +3,13 @@
 ## Full Stack Developer
 Technician in Systems Development and Full-Stack Developer, I have experience in web systems development and am constantly learning to further specialize in the field of technology.
 
-## 🧑‍💻 My Skills
+## My Skills
 
 - **Frontend**: JavaScript, React.Js.
 - **Backend**: Node.Js, Python.
 - **Data Bank**: MySQL.
 
-## 🚀 Techs
+## Techs
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
