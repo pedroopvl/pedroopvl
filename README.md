@@ -5,7 +5,7 @@ Técnico em Desenvolvimento de Sistemas e Desenvolvedor FullStack, tenho experi�
 
 ## 🧑‍💻 Minhas Habilidades
 
-- **Frontend**: HTML5, CSS3, JavaScript, React.Js.
+- **Frontend**: JavaScript, React.Js.
 - **Backend**: Node.Js, Python.
 - **Banco de Dados**: MySQL.
 
