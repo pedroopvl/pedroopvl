@@ -12,8 +12,6 @@ Técnico em Desenvolvimento de Sistemas e Desenvolvedor FullStack, tenho experi�
 ## 🚀 Tecnologias que Uso
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="Messo-HTML5" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg">
-    <img align="center" alt="Messo-CSS3" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg">
     <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
     <img align="center" alt="Messo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Messo-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
