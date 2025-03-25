@@ -1,15 +1,15 @@
-# Olá, me chamo Pedro Paulo!
+# Hello, My name is Pedro Paulo!
 
-## Desenvolvedor Web Full Stack
-Técnico em Desenvolvimento de Sistemas e Desenvolvedor FullStack, tenho experiência em desenvolvimento de sistemas web e estou em constante aprendizado para me especializar mais e mais na área da tecnologia.
+## Full Stack Developer
+Technician in Systems Development and Full-Stack Developer, I have experience in web systems development and am constantly learning to further specialize in the field of technology.
 
-## 🧑‍💻 Minhas Habilidades
+## 🧑‍💻 My Skills
 
 - **Frontend**: JavaScript, React.Js.
 - **Backend**: Node.Js, Python.
-- **Banco de Dados**: MySQL.
+- **Data Bank**: MySQL.
 
-## 🚀 Tecnologias que Uso
+## 🚀 Techs
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -20,5 +20,5 @@ Técnico em Desenvolvimento de Sistemas e Desenvolvedor FullStack, tenho experi�
   
 </div>
 
-## 📞 Conecte-se Comigo
+## 📞 Contact Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulodev1906/)
