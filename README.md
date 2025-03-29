@@ -22,4 +22,3 @@ Eu me chamo Pedro Paulo e eu estou em constante aprendizado na área de programa
 
 ## 📞 Entre em contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulodev1906/)
-[![Email](pedropaulodev1906@gmail.com)
