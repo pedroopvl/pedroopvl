@@ -5,8 +5,8 @@ Eu me chamo Pedro Paulo e eu estou em constante aprendizado na área de programa
 
 ## Minhas Habilidades
 
-- **Frontend**: JavaScript, React.Js.
-- **Backend**: Node.Js, Python.
+- **Frontend**: JavaScript, React.Js, TypeScript.
+- **Backend**: Node.Js, Python, APIs REST.
 - **Banco de dados**: MySQL.
 
 ## Tecnologias
