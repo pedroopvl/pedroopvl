@@ -13,6 +13,7 @@ Eu me chamo Pedro Paulo e eu estou em constante aprendizado na área de programa
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+    <img align="center" alt="Messo-Ts" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg">
     <img align="center" alt="Messo-React" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg">
     <img align="center" alt="Messo-NodeJS" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original.svg">
     <img align="center" alt="Messo-Python" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
@@ -21,4 +22,5 @@ Eu me chamo Pedro Paulo e eu estou em constante aprendizado na área de programa
 </div>
 
 ## 📞 Entre em contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pedropaulodev1906/)
+💼Linkedin: https://www.linkedin.com/in/pedropaulodev1906/
+📩Email: pedropaulodev1906@gmail.com
