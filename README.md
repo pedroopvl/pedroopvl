@@ -3,13 +3,13 @@
 ## Desenvolvedor Web
 Eu me chamo Pedro Paulo e eu estou em constante aprendizado na área de programação, principalmente na parte de Desenvolvimento Web FullStack, Estou determinado a sempre proporcionar os melhores resultados para os usuários e entregar resultados satisfatórios.
 
-## Minhas Habilidades
+## 🚀 Minhas Habilidades
 
 - **Frontend**: JavaScript, React.Js, TypeScript.
 - **Backend**: Node.Js, Python, APIs REST.
 - **Banco de dados**: MySQL.
 
-## Tecnologias
+## 🚀 Tecnologias
 
 <div style="display: inline_block"><br>
     <img align="center" alt="Messo-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
