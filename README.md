@@ -22,5 +22,5 @@ Eu me chamo Pedro Paulo e eu estou em constante aprendizado na área de programa
 </div>
 
 ## 📞 Entre em contato
-💼Linkedin: https://www.linkedin.com/in/pedropaulodev1906/
+💼Linkedin: https://www.linkedin.com/in/pedropaulodev1906/<br>
 📩Email: pedropaulodev1906@gmail.com
